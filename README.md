@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Michael Grapin, a current undergrad at Juniata College in Huntingdon, PA. 
-- 👀 I’m interested in systems biology and evolutionary genomics with my driving goal to understand why organisms are the way they are.
+- 👋 Hi, I’m Michael Grapin, a research technician at the University of Nebraska - Lincoln in Dr. Emily Moore's lab. 
+- 👀 Fascinated by the diversity of nature, understanding the molecular mechanisms of underlying traits drives his academic and research pursuits. His research interests take a interdisciplinary approach using structural and computational biology techniques to probe novel and understudied mechanisms. Committed to advancing his education, Michael plans to pursue a PHD in Biophysics/computational biochemistry, or similarly related field.
 - 📫 Contact me at michaelgrapin8@gmail.com
 <!---
 - 🌱 I’m currently learning ...
